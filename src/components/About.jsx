@@ -47,11 +47,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
+        maiores, tempore exercitationem praesentium debitis repellendus expedita
+        dolores dolore temporibus vitae deserunt, voluptatum velit ullam vel?
+        Repellendus itaque quas iste magni. Consequatur laboriosam culpa dolore
+        quas facere cum! Fugit natus impedit quae voluptatum iusto corrupti,
+        alias quisquam laborum illum enim, libero in facilis minus totam optio
+        sit deserunt voluptates, deleniti dicta. Repellat tenetur temporibus
+        alias aliquam necessitatibus aliquid natus atque, debitis deserunt
+        fugiat quaerat neque ea suscipit doloremque perferendis officiis rem
+        inventore dolorem animi ratione molestiae. Ullam quos non aliquam harum!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
